@@ -1,6 +1,6 @@
 # Spring Boot Library Management Application
 
-![Java](https://img.shields.io/badge/Java-11-blue)
+![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-green)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-yellow)
 ![AOP](https://img.shields.io/badge/AOP-Aspect--Oriented%20Programming-red)
