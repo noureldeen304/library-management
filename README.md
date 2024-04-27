@@ -14,8 +14,6 @@ This is a Spring Boot-based library management application with JWT authenticati
 - **Borrowing Transactions**: APIs for borrowing and returning books by patrons.
 - **JWT Authentication**: Secures APIs with JSON Web Tokens for authentication.
 - **AOP Logging**: Logs method calls in service layer classes using AOP.
-- **JUnit**: Testing framework for unit testing.
-- **Mockito**: Mocking framework for creating mocks in unit tests.
 
 ## Technologies Used
 
@@ -26,6 +24,8 @@ This is a Spring Boot-based library management application with JWT authenticati
 - **Aspect-Oriented Programming (AOP)**: Used for logging method calls.
 - **Postgres Database**: In-memory database for storing library data.
 - **Maven**: Dependency management and build tool.
+- **JUnit**: Testing framework for unit testing.
+- **Mockito**: Mocking framework for creating mocks in unit tests.
 
 ## Getting Started
 
