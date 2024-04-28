@@ -71,6 +71,20 @@ This is a Spring Boot-based library management application with JWT authenticati
 
 - Customize application properties in `src/main/resources/application.properties` as needed.
 
+### Docker
+
+- Dockerfile: The project includes a Dockerfile for containerizing the application. You can build the Docker image using the following command:
+
+    ```bash
+    docker build -t library-management-app .
+    ```
+
+- Running Docker container: After building the Docker image, you can run the application in a Docker container using the following command:
+
+    ```bash
+    docker run -p 8080:8080 library-management-app
+    ```
+    
 ## Contributing
 
 Contributions are welcome! Here are some ways you can contribute:
